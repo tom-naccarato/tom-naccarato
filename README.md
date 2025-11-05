@@ -8,6 +8,8 @@
 - Developed [**FakePal**](https://github.com/tnaccarato/FakePal), a secure online payment system, and [**Bingle**](https://github.com/thepercyj/Bingle), a scalable book-lending social network.
 - Conducted bioinformatics analyses in R, identifying drug targets for glioma therapy.
 
+- Previous contributions on forks are under my old account [@tnaccarato](https://github.com/tnaccarato)
+
 ## Skills:
 Python, Java, SQL, R, Django, Kubernetes, Docker, AWS, CI/CD.
 
