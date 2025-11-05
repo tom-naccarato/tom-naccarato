@@ -5,7 +5,7 @@
 
 ## Highlights:
 - Built [**Vis-PheWAS**](https://github.com/tnaccarato/vis-phewas), a web tool for visualising allele-disease associations.
-- Developed [**FakePal**](https://github.com/tnaccarato/FakePal), a secure online payment system, and [**Bingle**](https://github.com/thepercyj/Bingle), a scalable book-lending social network.
+- Developed [**FakePal**](https://github.com/tnaccarato/FakePal), a secure online payment system, [**Puzzle Realms**](https://github.com/thepercyj/Puzzle-Realms), a platform for solving exact cover puzzles such as N-Queens and Kanoodle using dancing links and [**Bingle**](https://github.com/thepercyj/Bingle), a scalable book-lending social network.
 - Conducted bioinformatics analyses in R, identifying drug targets for glioma therapy.
 
 - Previous contributions are under my old account [@tnaccarato](https://github.com/tnaccarato)
