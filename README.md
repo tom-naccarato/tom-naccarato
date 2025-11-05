@@ -4,7 +4,7 @@
 🌟 Advanced Computer Science Master's graduate with a background in Biomedical Science. Passionate about software engineering and data science, with a focus on Python, Java, and scalable application design. Currently working as a freelance consultant software engineer producing full-stack solutions to automate business workflows.
 
 ## Highlights:
-- Built [**Vis-PheWAS**](https://github.com/tnaccarato/vis-phewas), a web tool for visualising allele-disease associations.
+- Built [**Vis-PheWAS**](https://github.com/tnaccarato/vis-phewas), a web tool for visualising allele-disease associations using self organising maps.
 - Developed [**FakePal**](https://github.com/tnaccarato/FakePal), a secure online payment system, [**Puzzle Realms**](https://github.com/thepercyj/Puzzle-Realms), a platform for solving exact cover puzzles such as N-Queens and Kanoodle using dancing links and [**Bingle**](https://github.com/thepercyj/Bingle), a scalable book-lending social network.
 - Conducted bioinformatics analyses in R, identifying drug targets for glioma therapy.
 
