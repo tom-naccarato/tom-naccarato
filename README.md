@@ -11,7 +11,7 @@
 - Previous contributions are under my old account [@tnaccarato](https://github.com/tnaccarato)
 
 ## Skills:
-Python, Java, SQL, R, Django, Kubernetes, Docker, AWS, CI/CD.
+Python, Java, SQL, R, Django, Flask, React, Kubernetes, Docker, AWS, CI/CD.
 
 🎵 Music producer and aspiring game developer learning C++ and Godot.
 
