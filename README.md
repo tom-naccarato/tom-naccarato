@@ -1,7 +1,7 @@
 
 👋 Hi, I’m [@tom-naccarato](https://github.com/tom-naccarato)
 
-🌟 Advanced Computer Science Master's graduate with a background in Biomedical Science. Passionate about software engineering and data science, with a focus on Python, Java, and scalable application design. 
+🌟 Advanced Computer Science Master's graduate with a background in Biomedical Science. Passionate about software engineering and data science, with a focus on Python, Java, and scalable application design. Currently working as a freelance consultant software engineer producing full-stack solutions to automate business workflows.
 
 ## Highlights:
 - Built [**Vis-PheWAS**](https://github.com/tnaccarato/vis-phewas), a web tool for visualising allele-disease associations.
